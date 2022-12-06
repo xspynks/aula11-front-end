@@ -1,0 +1,8 @@
+.prediction-card {
+  min-width: fit-content;
+}
+
+.teams {
+  display: flex;
+  width: fit-content;
+}
